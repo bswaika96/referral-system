@@ -8,4 +8,5 @@ class Person extends Model {
 	protected $table = 'person';
 	protected $primaryKey = 'Id';
     protected $fillable = ['IdentityNumber', 'Name', 'POB', 'DOB', 'Gender', 'BloodType', 'Address', 'Religion', 'Martial', 'Job', 'Citizenship'];
+	public $timestamps = false;
 }
