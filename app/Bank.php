@@ -8,4 +8,5 @@ class Bank extends Model {
 	protected $table = 'bank';
 	protected $primaryKey = 'Id';
     protected $fillable = ['Code', 'Name'];
+	public $timestamps = false;
 }
