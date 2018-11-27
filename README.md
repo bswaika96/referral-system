@@ -20,4 +20,4 @@ There are 7 data structure that implemented in this system as described below.
 
 /api/referrers	=> Endpoint for Referrer database
 
-Visit my [Seamless Project](https://github.com/hikaru150s/referral-system) to view the data.
+Visit my [Seamless Project](https://github.com/hikaru150s/seamless) to view the data.
